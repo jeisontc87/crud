@@ -1,0 +1,80 @@
+html, body {
+        height: 100%;
+        margin: 10px;
+        padding: 0;
+      }
+
+.container{
+	float: left;
+	/*border:1.5px solid blue;
+	border-right-style: dashed;
+	border-left-style: dashed;*/
+	position: relative;
+	padding-right: 15px;
+	padding-left: 15px;
+
+}
+
+
+h1#titulo{
+	font-size:40pt;
+	text-align: center; 
+}
+
+h1#cabecalho{
+	font-size: 20pt;
+	color: red;
+	text-align: center;
+} 
+
+a#posCabecalho{
+	font-size: 30pt;
+	color: black;
+	text-align: center;
+} 
+
+p#info{
+	font-size:15pt;
+	margin-left: 15px;
+	
+
+}
+img#fotos{
+	border-radius: 10px;
+}
+
+img#icones{
+	height: 20px;
+	width:20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+img#iconeCam{
+	height: 100px;
+	width:100px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+
+fieldset{
+	font-size: 30pt;
+	width: 30%;
+	margin: auto;
+	margin-bottom: 50px;
+}
+legend{
+	text-align: center;
+}
+
+label{
+	font-size: 20pt;
+	text-align: center;
+}
+
+input#formulario{
+	font-size: 20pt;
+}
+
+  
